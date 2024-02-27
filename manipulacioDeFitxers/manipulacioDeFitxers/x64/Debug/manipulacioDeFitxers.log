@@ -1,0 +1,7 @@
+﻿  manipulacioDeFitxers.cpp
+E:\AluCiclesGS1\zexilili\cplusplus\manipulacioDeFitxers\manipulacioDeFitxers\manipulacioDeFitxers.cpp(35,24): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\manipulacioDeFitxers\manipulacioDeFitxers\manipulacioDeFitxers.cpp(37,22): warning C4244: '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\cplusplus\manipulacioDeFitxers\manipulacioDeFitxers\manipulacioDeFitxers.cpp(16,34): warning C4101: 'alto': variable local sin referencia
+E:\AluCiclesGS1\zexilili\cplusplus\manipulacioDeFitxers\manipulacioDeFitxers\manipulacioDeFitxers.cpp(16,27): warning C4101: 'ancho': variable local sin referencia
+E:\AluCiclesGS1\zexilili\cplusplus\manipulacioDeFitxers\manipulacioDeFitxers\manipulacioDeFitxers.cpp(16,15): warning C4101: 'compresion': variable local sin referencia
+  manipulacioDeFitxers.vcxproj -> E:\AluCiclesGS1\zexilili\cplusplus\manipulacioDeFitxers\x64\Debug\manipulacioDeFitxers.exe
